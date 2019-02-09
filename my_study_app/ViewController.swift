@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  my_study_app
 //
-//  Created by A10 lab Inc. 006 on 2018/07/06.
+//  Created by taka4yamamoto on 2018/07/06.
 //  Copyright © 2018 yamataka. All rights reserved.
 //
 
